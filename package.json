@@ -1,7 +1,7 @@
 {
   "name": "react-native-touch-point-kit",
   "title": "React Native Touch Point Kit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TouchPoint SDK to help developers integrate touchpoint activities.",
   "main": "index.js",
   "files": [

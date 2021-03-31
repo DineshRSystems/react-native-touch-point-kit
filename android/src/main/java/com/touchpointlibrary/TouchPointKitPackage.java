@@ -1,6 +1,6 @@
 // TouchPointKitPackage.java
 
-package com.reactlibrary;
+package com.touchpointlibrary;
 
 import java.util.Arrays;
 import java.util.Collections;
